@@ -10,4 +10,5 @@ I care about developer tooling, test infrastructure, and system reliability. Mos
 I'm currently building agent-eval, a TypeScript CLI test runner. It uses static AST analysis to measure how different instruction sets change LLM-generated code, completely avoiding subjective "LLM-as-a-judge" scoring.
 
 Stack: TypeScript, React, Next.js, Tailwind CSS, Node.js, C#/.NET
+
 Links: [LinkedIn](https://linkedin.com/in/[USERNAME]) | kallendo96@gmail.com
