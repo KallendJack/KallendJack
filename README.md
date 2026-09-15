@@ -1,1 +1,3 @@
+Frontend / Product Engineer | React & TypeScript | AI agent tooling and orchestration
+
 Senior frontend engineer with seven years shipping production React and TypeScript. I build product features on a multi-tenant healthcare platform and develop the team's agent tooling, including a planning tool that reads a ticket, works out what's missing from it, and routes each part of the work to the right specialist skill or agent.
