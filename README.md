@@ -1,14 +1,13 @@
 # Jack Kallend
 
-**Senior Frontend Engineer | Product Engineer**
-📍 West Yorkshire, UK
+Senior Frontend Engineer | Product Engineer
+West Yorkshire, UK
 
-I am a Senior Frontend Engineer shipping production React and TypeScript applications. In my current role on a multi-tenant platform, alongside my core frontend work, I contribute to a shared library of 35+ developer skills (`AGENTS.md`). This helps our engineering team get consistent, production-ready code out of AI coding assistants by enforcing our internal standards.
+I build frontend applications using React and TypeScript. Alongside my day-to-day UI work on a multi-tenant platform, I co-maintain our engineering team's shared library of AI developer skills (AGENTS.md). We use this to force coding assistants to follow our actual internal standards.
 
-I'm highly interested in the intersection of modern frontend architecture and developer tooling. Rather than just using AI to generate boilerplate, I care about the testing, infrastructure, and boundaries required to make LLMs genuinely reliable in a professional team workflow.
+I care about developer tooling, test infrastructure, and system reliability. Most of my recent focus is on moving beyond basic prompt engineering to figure out how to make LLMs write code that passes review on the first try.
 
-Right now, I am building `agent-eval`—a TypeScript CLI test runner. Instead of relying on subjective "LLM-as-a-judge" testing, it uses static AST analysis to quantitatively measure how different instructions impact the quality of AI-generated code.
+I'm currently building agent-eval, a TypeScript CLI test runner. It uses static AST analysis to measure how different instruction sets change LLM-generated code, completely avoiding subjective "LLM-as-a-judge" scoring.
 
----
-**Stack:** TypeScript, React, Next.js, Tailwind CSS, Node.js, C#/.NET  
-📫 [LinkedIn](https://linkedin.com/in/[USERNAME]) | kallendo96@gmail.com
+Stack: TypeScript, React, Next.js, Tailwind CSS, Node.js, C#/.NET
+Links: [LinkedIn](https://linkedin.com/in/[USERNAME]) | kallendo96@gmail.com
