@@ -7,7 +7,7 @@ I build frontend applications using React and TypeScript. Alongside my day-to-da
 
 I care about developer tooling, test infrastructure, and system reliability. Most of my recent focus is on moving beyond basic prompt engineering to figure out how to make LLMs write code that passes review on the first try.
 
-I'm currently building agent-eval, a TypeScript CLI test runner. It uses static AST analysis to measure how different instruction sets change LLM-generated code, completely avoiding subjective "LLM-as-a-judge" scoring.
+I'm currently building agent-eval, a TypeScript CLI test runner. It uses static AST analysis to measure how different instruction sets change LLM-generated code.
 
 Stack: TypeScript, React, Next.js, Tailwind CSS, Node.js, C#/.NET
 
