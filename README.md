@@ -1,7 +1,6 @@
 # Jack Kallend
 
 Senior Frontend Engineer | Product Engineer
-West Yorkshire, UK
 
 I build frontend applications using React and TypeScript. Alongside my day-to-day UI work on a multi-tenant platform, I co-maintain our engineering team's shared library of AI developer skills (AGENTS.md). We use this to force coding assistants to follow our actual internal standards.
 
